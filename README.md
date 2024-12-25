@@ -1,4 +1,4 @@
-Hi, I’m Angelos Zaimis, a software engineer currently working as a full-stack engineer at Nu.education in Zurich. I have experience in Java, Spring Boot, React, Next.js, Python, and Django.I’m passionate about taking on challenging projects.
+Hi, I’m Angelos Zaimis, a software engineer currently working as a full-stack engineer at Nu.education in Zurich.This is my new github account. I have experience in Java, Spring Boot, React, Next.js, Python, and Django.I’m passionate about taking on challenging projects.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaimis-angelos/) 
 
 # 💻 Tech Stack:
