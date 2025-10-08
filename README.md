@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Angelos Zaimis  
 
-I’m a **software engineer** based in Zurich, currently working as a **full-stack engineer at Nu.education**. My work focuses on building applications with **Large Language Models (LLMs)** using **LangChain, LangGraph, and RAG pipelines**, while staying passionate about **reliable, scalable systems** and developing a growing interest in **data system design** and **microservice architectures**.
+Full-Stack Software Engineer based in Zurich with 4 years of experience building scalable backend and web systems. My core expertise lies in Java (Spring Boot) and microservice architectures, complemented by strong experience in Python (FastAPI) and React/Next.js. I’m passionate about clean, reliable, and high-performance systems, with growing experience in integrating Large Language Models (LLMs) using LangChain, LangGraph, and RAG pipelines. Committed to continuous learning, solid system design, and aligning technology with real-world impact.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaimis-angelos/)  
 
