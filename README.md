@@ -1,23 +1,21 @@
 # 👋 Hi, I’m Angelos Zaimis  
 
-Software Engineer based in Zurich, currently focused on **high-performance backend systems in Go** and **AI-powered services built with Python (FastAPI)**.
+Software Engineer based in Zurich, currently working at **Nu.education** on backend-heavy, full-stack systems.
 
-I enjoy working close to the system: concurrency, efficiency, clean APIs, and predictable performance. Alongside this, I design and build production-ready AI services, integrating Large Language Models through **RAG pipelines**, robust APIs, and reliable backend architectures.
+I have strong production experience with **Java and Spring Boot**, having worked on scalable microservice architectures in real-world enterprise environments. This background shapes how I approach software engineering today: reliability, clean architecture, and long-term maintainability first.
 
-I also bring **3+ years of enterprise experience with Java and Spring Boot**, having worked on scalable microservice systems in real-world production environments. This background strongly shapes how I approach engineering today: reliability first, clear boundaries, and long-term maintainability.
+Alongside this, I’m **actively deepening my expertise in Go**, focusing on systems programming, concurrency, and performance through hands-on projects and practical experimentation.
+
+In parallel, I build **AI-powered backend services** using **Python (FastAPI)**, working with Large Language Models through **RAG pipelines**, robust APIs, and production-oriented architectures.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaimis-angelos/)  
 
----
+# Tech Focus  
 
-# 💻 Tech Focus  
-
-### Primary Focus — Systems & Performance  
+### Systems & Backend (Learning Deeply)  
 ![Golang](https://img.shields.io/badge/golang-00ADD8?style=flat&logo=go&logoColor=white)
 ![Concurrency](https://img.shields.io/badge/Concurrency-Systems-blue?style=flat)
 ![Backend](https://img.shields.io/badge/Backend-Engineering-informational?style=flat)
-
----
 
 ### AI Engineering  
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
@@ -26,14 +24,10 @@ I also bring **3+ years of enterprise experience with Java and Spring Boot**, ha
 ![LangGraph](https://img.shields.io/badge/LangGraph-3A86FF?style=flat&logo=graphql&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-Pipelines-green?style=flat)
 
----
-
 ### Enterprise Experience  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-Architecture-critical?style=flat)
-
----
 
 ### Web (Supporting)  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
