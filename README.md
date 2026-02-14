@@ -12,7 +12,7 @@ In parallel, I build **AI-powered backend services** using **Python (FastAPI)**,
 
 # Tech Focus  
 
-### Systems & Backend (Learning Deeply)  
+### Systems & Backend 
 ![Golang](https://img.shields.io/badge/golang-00ADD8?style=flat&logo=go&logoColor=white)
 ![Concurrency](https://img.shields.io/badge/Concurrency-Systems-blue?style=flat)
 ![Backend](https://img.shields.io/badge/Backend-Engineering-informational?style=flat)
