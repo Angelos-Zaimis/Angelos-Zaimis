@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Angelos Zaimis
 
-**Software & AI Engineer** based in Zurich 🇨🇭, currently at **Nu.education**, building backend-heavy, full-stack systems.
+**Software & AI Engineer** based in Zurich, currently at **Nu.education**, building backend-heavy, full-stack systems.
 
 My core is **Java and Spring Boot**. I have production experience designing and running **microservice architectures** in enterprise environments, where reliability, security, clean architecture, and long-term maintainability come first. That is the standard I bring to every system I build.
 
@@ -12,7 +12,7 @@ I'm full-stack with a clear backend focus. I'm comfortable shipping frontends in
 
 ---
 
-## 🏢 Enterprise Backend: Core Expertise
+## Enterprise Backend: Core Expertise
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white)
@@ -26,7 +26,7 @@ I'm full-stack with a clear backend focus. I'm comfortable shipping frontends in
 - Testing culture: unit, integration, and contract tests
 - Building for regulated, quality-driven environments
 
-## 🤖 AI Engineering
+## AI Engineering
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
@@ -38,7 +38,7 @@ I'm full-stack with a clear backend focus. I'm comfortable shipping frontends in
 - Retrieval-Augmented Generation: ingestion, embeddings, retrieval, evaluation
 - Agentic workflows with LangGraph
 
-## ☁️ Data & Infrastructure
+## Data & Infrastructure
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -46,13 +46,13 @@ I'm full-stack with a clear backend focus. I'm comfortable shipping frontends in
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-## 🌐 Frontend
+## Frontend
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
 
-## ⚙️ Also Working With
+## Also Working With
 
 ![Golang](https://img.shields.io/badge/golang-00ADD8?style=flat&logo=go&logoColor=white)
 
